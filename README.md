@@ -1,6 +1,6 @@
 This Dcument Scanner has following features
 
-1) Scanning and correcting the perspective of image
+1) Scanning and correcting the perspective of image, as it is done in CS Cam Scanner Mobile App
 2) Blurring the image
 3) Extracting the object in grey scale with thresholding (upper threshold scale will affect the backdround, lower threshold scale will affect the object color )
 4) Inversing the color of image
